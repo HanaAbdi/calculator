@@ -24,7 +24,7 @@ h1 {
 .container {
     margin: 10px;
     width: 600px;
-    height: 520px;
+    height: 500px;
     background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
 }
 
@@ -38,6 +38,7 @@ h1 {
     margin: 10px;
     font-size: 30px;
     font-weight: 500;
+    word-break: break-word;
 }
 
 .buttons {
@@ -55,7 +56,7 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 10px;
+    margin: 5px;
     font-family: "helvetica neue", sans-serif;
     font-weight: 600;
     font-size: 16px;
