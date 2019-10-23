@@ -2,19 +2,24 @@
 > Calculator created using Html, Css and Javascript.
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+- [Calculator](#calculator)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+    - [Windows](#windows)
+    - [Linux](#linux)
+    - [Mac](#mac)
+  - [Status](#status)
+  - [Inspiration](#inspiration)
+  - [Contact](#contact)
 
 ## General info
 This project is created to demonstrate basic proficiency in Javascript, DOM manipulation and Event handling.
 
 ## Screenshots
-![Example screenshot](/images/project-image.png)
+![Example screenshot](/images/projectImage.png)
 
 ## Technologies
 * Html
